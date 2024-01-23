@@ -24,3 +24,17 @@ Hopefully she will enjoy this delightful cup of tea.
 Make sure you use the correct ingredience otherwise feel your nans wrath as she laughs at you... 
 
 ... in a delightful wholesome way. 
+
+
+Task List
+Create Nan ()
+Create Nan Chat ()
+Create interactable Items ()
+Create Win condition ()
+Add other items?
+Add Cat Character?  ()
+Cat appears on Cat text, Cat runs around, if cat is clicked on it meows and runs off screen. needs work.
+Undertake Art Pass?
+Undertake Animation Pass?
+
+
