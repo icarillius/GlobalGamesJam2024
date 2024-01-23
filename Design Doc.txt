@@ -31,10 +31,10 @@ Create Nan ()
 Create Nan Chat ()
 Create interactable Items ()
 Create Win condition ()
-Add other items?
+Add other items? ()
 Add Cat Character?  ()
-Cat appears on Cat text, Cat runs around, if cat is clicked on it meows and runs off screen. needs work.
-Undertake Art Pass?
-Undertake Animation Pass?
+Cat appears on Cat text, Cat runs around, if cat is clicked on it meows and runs off screen. needs work. ()
+Undertake Art Pass? 
+Undertake Animation Pass? 
 
 

@@ -1,0 +1,26 @@
+Asset list
+
+Cabin with kitchen and table.
+Granny
+Rocking Chair
+
+Table
+
+Cat + Movement
+
+Tea bags (Green Tea, Earl Grey, PGTips)
+
+Milk (Dairy, Oat, Pea)
+
+Cups (Nan's Cup, Coffee Cup, China Cup)
+
+Kettle
+
+Smoke effect? 
+
+Flame Effect?
+Stove
+
+Fridge
+
+Shelf
