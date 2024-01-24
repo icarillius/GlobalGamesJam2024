@@ -34,7 +34,26 @@ Create Win condition ()
 Add other items? ()
 Add Cat Character?  ()
 Cat appears on Cat text, Cat runs around, if cat is clicked on it meows and runs off screen. needs work. ()
-Undertake Art Pass? 
+Undertake Art Pass?  (Near done just needs bottles and final nan? teas, cups, cat?)
 Undertake Animation Pass? 
+
+Audio
+Fire sound?
+Kettle boiling
+Nan mumble
+Cat Sounds/ meow
+Fridge opening
+Tea grabbing sounds (Scrunching)
+Glasses clinking.
+Milk mooing?
+Milk Pea noises?
+Milk oat (Blughh blurp sounds)
+Brew's done dear (For brew up button)
+
+(Chill music for cozy vibes)
+Name dear (For gran name)
+Lets make some tea (Start button press)
+
+
 
 
